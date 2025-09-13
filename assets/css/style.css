@@ -566,6 +566,39 @@ small {
   background-color: #00695c !important;
 } */
 
+
+/* About section - mismo formato que Contact y Education */
+#about {
+  background-color: #f8f8f8;
+}
+
+#about h3 {
+  background-color: #DC143C;
+  color: white;
+  margin-bottom: 0;
+}
+
+#about .card {
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+#about .card .card-content {
+  padding: 30px;
+}
+
+/* Experience section - mismo formato que Contact y Education */
+#experience {
+  background-color: #f8f8f8;
+}
+
+#experience h3 {
+  background-color: #DC143C;
+  color: white;
+  margin-bottom: 0;
+}
+
+
 @media (min-width: 1200px) {
   #experience .container {
     width: 860px;
